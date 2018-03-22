@@ -1,0 +1,600 @@
+=== BetterSorry threads=1 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 23173.1 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=1 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 27331.6 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=1 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 19939.8 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=1 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 28692.1 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=1 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 20118.2 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=2 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 47115.9 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=2 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 46963.1 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=2 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 43887.6 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=2 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 48292.3 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=2 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 45660.0 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=4 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 114656 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=4 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 115225 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=4 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 118017 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=4 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 122051 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=4 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 90084.8 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=8 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 300614 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=8 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 256663 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=8 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 222825 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=8 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 234169 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=8 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 277341 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=16 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 621827 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=16 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 619603 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=16 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 629309 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=16 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 602916 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=16 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 660599 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=32 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 1.94786e+06 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=32 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 1.87219e+06 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=32 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 1.66999e+06 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=32 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 2.28447e+06 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=32 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 1.73337e+06 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=1 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 4556.35 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=1 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 4490.37 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=1 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 3093.74 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=1 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 4414.12 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=1 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 3662.73 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=2 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 7736.84 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=2 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 7771.72 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=2 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 8697.30 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=2 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 8349.81 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=2 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 8722.08 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=4 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 21659.0 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=4 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 16885.6 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=4 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 13481.3 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=4 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 16267.7 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=4 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 16275.1 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=8 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 31773.9 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=8 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 36480.3 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=8 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 29604.4 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=8 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 30904.4 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=8 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 30199.2 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=16 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 91357.8 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=16 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 57072.2 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=16 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 78845.8 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=16 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 80644.5 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=16 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 74767.1 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=32 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 169549 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=32 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 187205 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=32 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 187061 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=32 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 172680 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=32 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 174288 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=1 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 767.605 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=1 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 776.629 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=1 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 580.219 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=1 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 731.589 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=1 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 746.909 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=2 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 1907.64 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=2 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 2048.46 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=2 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 1456.37 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=2 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 1858.43 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=2 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 2080.18 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=4 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 4134.14 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=4 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 4062.30 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=4 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 4389.93 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=4 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 3899.50 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=4 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 4185.00 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=8 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 9409.92 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=8 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 6940.42 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=8 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 7713.74 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=8 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 7015.10 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=8 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 6730.86 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=16 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 19163.4 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=16 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 18495.2 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=16 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 24180.9 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=16 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 30131.3 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=16 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 18577.9 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=32 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 36661.4 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=32 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 37463.7 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=32 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 34376.7 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=32 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 29277.3 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=32 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 39055.8 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=1 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 219.219 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=1 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 199.645 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=1 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 239.552 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=1 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 215.208 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=1 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 239.356 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=2 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 783.629 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=2 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 857.577 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=2 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 925.400 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=2 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 409.482 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=2 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 968.937 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=4 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 1351.07 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=4 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 1307.95 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=4 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 1462.65 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=4 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 1284.58 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=4 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 1365.87 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=8 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 1906.68 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=8 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 2028.27 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=8 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 2027.45 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=8 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 1903.88 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=8 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 2360.59 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=16 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 4477.71 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=16 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 3903.39 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=16 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 4047.61 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=16 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 4055.58 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=16 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 6248.16 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=32 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 8223.39 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=32 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 10534.3 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=32 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 8523.77 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=32 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 8446.29 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=32 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 8861.68 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=1 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 57.3832 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=1 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 60.1070 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=1 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 60.6274 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=1 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 61.6219 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=1 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 69.0529 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=2 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 338.903 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=2 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 329.621 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=2 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 330.156 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=2 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 285.083 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=2 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 285.995 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=4 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 702.068 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=4 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 718.957 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=4 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 737.187 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=4 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 757.348 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=4 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 704.535 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=8 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 1985.18 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=8 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 1348.41 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=8 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 1215.86 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=8 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 1833.04 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=8 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 1874.03 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=16 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 3606.18 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=16 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 3808.06 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=16 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 3907.65 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=16 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 3789.84 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=16 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 3540.65 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=32 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 11247.3 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=32 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 11573.4 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=32 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 9101.46 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=32 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 10437.0 ns/transition
+Number of failed swaps: 0
+
+=== BetterSorry threads=32 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 11548.9 ns/transition
+Number of failed swaps: 0
+

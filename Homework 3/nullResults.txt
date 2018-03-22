@@ -1,0 +1,450 @@
+=== Null threads=1 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 29963.4 ns/transition
+
+=== Null threads=1 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 29128.5 ns/transition
+
+=== Null threads=1 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 30144.7 ns/transition
+
+=== Null threads=1 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 28427.7 ns/transition
+
+=== Null threads=1 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 26603.4 ns/transition
+
+=== Null threads=2 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 52043.6 ns/transition
+
+=== Null threads=2 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 54923.6 ns/transition
+
+=== Null threads=2 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 56823.0 ns/transition
+
+=== Null threads=2 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 52622.7 ns/transition
+
+=== Null threads=2 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 56199.6 ns/transition
+
+=== Null threads=4 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 126692 ns/transition
+
+=== Null threads=4 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 125337 ns/transition
+
+=== Null threads=4 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 113992 ns/transition
+
+=== Null threads=4 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 122902 ns/transition
+
+=== Null threads=4 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 120932 ns/transition
+
+=== Null threads=8 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 227817 ns/transition
+
+=== Null threads=8 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 271394 ns/transition
+
+=== Null threads=8 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 239714 ns/transition
+
+=== Null threads=8 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 268477 ns/transition
+
+=== Null threads=8 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 234350 ns/transition
+
+=== Null threads=16 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 759610 ns/transition
+
+=== Null threads=16 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 665988 ns/transition
+
+=== Null threads=16 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 782910 ns/transition
+
+=== Null threads=16 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 850924 ns/transition
+
+=== Null threads=16 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 758015 ns/transition
+
+=== Null threads=32 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 2.31571e+06 ns/transition
+
+=== Null threads=32 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 2.31666e+06 ns/transition
+
+=== Null threads=32 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 2.35783e+06 ns/transition
+
+=== Null threads=32 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 2.06010e+06 ns/transition
+
+=== Null threads=32 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 2.30812e+06 ns/transition
+
+=== Null threads=1 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 4651.48 ns/transition
+
+=== Null threads=1 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 4290.32 ns/transition
+
+=== Null threads=1 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 4179.62 ns/transition
+
+=== Null threads=1 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 4445.54 ns/transition
+
+=== Null threads=1 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 4587.59 ns/transition
+
+=== Null threads=2 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 8306.56 ns/transition
+
+=== Null threads=2 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 8523.37 ns/transition
+
+=== Null threads=2 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 8143.13 ns/transition
+
+=== Null threads=2 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 8250.21 ns/transition
+
+=== Null threads=2 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 7976.23 ns/transition
+
+=== Null threads=4 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 19363.4 ns/transition
+
+=== Null threads=4 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 16806.2 ns/transition
+
+=== Null threads=4 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 19459.4 ns/transition
+
+=== Null threads=4 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 19698.9 ns/transition
+
+=== Null threads=4 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 17338.2 ns/transition
+
+=== Null threads=8 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 34791.8 ns/transition
+
+=== Null threads=8 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 39383.7 ns/transition
+
+=== Null threads=8 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 35884.2 ns/transition
+
+=== Null threads=8 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 28548.3 ns/transition
+
+=== Null threads=8 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 35772.7 ns/transition
+
+=== Null threads=16 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 79548.4 ns/transition
+
+=== Null threads=16 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 70887.9 ns/transition
+
+=== Null threads=16 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 84397.1 ns/transition
+
+=== Null threads=16 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 81099.5 ns/transition
+
+=== Null threads=16 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 81442.1 ns/transition
+
+=== Null threads=32 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 204732 ns/transition
+
+=== Null threads=32 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 259138 ns/transition
+
+=== Null threads=32 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 244517 ns/transition
+
+=== Null threads=32 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 227870 ns/transition
+
+=== Null threads=32 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 279073 ns/transition
+
+=== Null threads=1 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 683.306 ns/transition
+
+=== Null threads=1 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 770.762 ns/transition
+
+=== Null threads=1 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 898.523 ns/transition
+
+=== Null threads=1 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 653.664 ns/transition
+
+=== Null threads=1 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 743.187 ns/transition
+
+=== Null threads=2 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 1793.55 ns/transition
+
+=== Null threads=2 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 1528.56 ns/transition
+
+=== Null threads=2 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 1719.58 ns/transition
+
+=== Null threads=2 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 1364.99 ns/transition
+
+=== Null threads=2 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 2014.15 ns/transition
+
+=== Null threads=4 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 3156.27 ns/transition
+
+=== Null threads=4 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 4005.00 ns/transition
+
+=== Null threads=4 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 3909.72 ns/transition
+
+=== Null threads=4 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 3873.45 ns/transition
+
+=== Null threads=4 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 3956.66 ns/transition
+
+=== Null threads=8 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 8210.92 ns/transition
+
+=== Null threads=8 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 7177.68 ns/transition
+
+=== Null threads=8 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 7660.63 ns/transition
+
+=== Null threads=8 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 7384.69 ns/transition
+
+=== Null threads=8 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 6489.71 ns/transition
+
+=== Null threads=16 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 19608.0 ns/transition
+
+=== Null threads=16 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 15990.4 ns/transition
+
+=== Null threads=16 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 15784.1 ns/transition
+
+=== Null threads=16 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 14352.2 ns/transition
+
+=== Null threads=16 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 15885.0 ns/transition
+
+=== Null threads=32 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 38677.0 ns/transition
+
+=== Null threads=32 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 36873.6 ns/transition
+
+=== Null threads=32 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 37097.0 ns/transition
+
+=== Null threads=32 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 35693.1 ns/transition
+
+=== Null threads=32 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 35405.8 ns/transition
+
+=== Null threads=1 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 204.972 ns/transition
+
+=== Null threads=1 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 205.865 ns/transition
+
+=== Null threads=1 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 205.069 ns/transition
+
+=== Null threads=1 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 184.148 ns/transition
+
+=== Null threads=1 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 239.362 ns/transition
+
+=== Null threads=2 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 580.134 ns/transition
+
+=== Null threads=2 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 580.095 ns/transition
+
+=== Null threads=2 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 498.807 ns/transition
+
+=== Null threads=2 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 485.769 ns/transition
+
+=== Null threads=2 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 494.510 ns/transition
+
+=== Null threads=4 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 756.502 ns/transition
+
+=== Null threads=4 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 1043.01 ns/transition
+
+=== Null threads=4 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 714.681 ns/transition
+
+=== Null threads=4 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 1471.37 ns/transition
+
+=== Null threads=4 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 1200.65 ns/transition
+
+=== Null threads=8 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 1210.10 ns/transition
+
+=== Null threads=8 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 1349.73 ns/transition
+
+=== Null threads=8 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 1451.42 ns/transition
+
+=== Null threads=8 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 1409.74 ns/transition
+
+=== Null threads=8 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 1144.62 ns/transition
+
+=== Null threads=16 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 2676.08 ns/transition
+
+=== Null threads=16 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 2722.19 ns/transition
+
+=== Null threads=16 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 2981.42 ns/transition
+
+=== Null threads=16 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 2844.05 ns/transition
+
+=== Null threads=16 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 2425.82 ns/transition
+
+=== Null threads=32 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 9377.00 ns/transition
+
+=== Null threads=32 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 7979.16 ns/transition
+
+=== Null threads=32 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 6873.39 ns/transition
+
+=== Null threads=32 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 8764.73 ns/transition
+
+=== Null threads=32 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 6065.86 ns/transition
+
+=== Null threads=1 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 39.0497 ns/transition
+
+=== Null threads=1 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 42.3585 ns/transition
+
+=== Null threads=1 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 44.6623 ns/transition
+
+=== Null threads=1 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 39.5054 ns/transition
+
+=== Null threads=1 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 45.3364 ns/transition
+
+=== Null threads=2 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 125.073 ns/transition
+
+=== Null threads=2 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 118.054 ns/transition
+
+=== Null threads=2 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 84.5465 ns/transition
+
+=== Null threads=2 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 102.231 ns/transition
+
+=== Null threads=2 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 109.159 ns/transition
+
+=== Null threads=4 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 471.487 ns/transition
+
+=== Null threads=4 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 290.037 ns/transition
+
+=== Null threads=4 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 285.275 ns/transition
+
+=== Null threads=4 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 309.608 ns/transition
+
+=== Null threads=4 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 350.525 ns/transition
+
+=== Null threads=8 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 2224.29 ns/transition
+
+=== Null threads=8 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 1297.45 ns/transition
+
+=== Null threads=8 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 1136.43 ns/transition
+
+=== Null threads=8 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 2273.55 ns/transition
+
+=== Null threads=8 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 1982.15 ns/transition
+
+=== Null threads=16 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 3009.12 ns/transition
+
+=== Null threads=16 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 5066.38 ns/transition
+
+=== Null threads=16 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 5170.95 ns/transition
+
+=== Null threads=16 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 3051.11 ns/transition
+
+=== Null threads=16 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 2858.71 ns/transition
+
+=== Null threads=32 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 6763.23 ns/transition
+
+=== Null threads=32 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 7730.39 ns/transition
+
+=== Null threads=32 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 8906.80 ns/transition
+
+=== Null threads=32 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 6602.29 ns/transition
+
+=== Null threads=32 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 6284.95 ns/transition
+

@@ -1,0 +1,96 @@
+2016-11-26T15:11:01-0800 [-] Loading chatserver.py...
+2016-11-26T15:11:01-0800 [-] Loaded.
+2016-11-26T15:11:01-0800 [twisted.scripts._twistd_unix.UnixAppLogger#info] twistd 16.5.0 (/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python 2.7.12) starting up.
+2016-11-26T15:11:01-0800 [twisted.scripts._twistd_unix.UnixAppLogger#info] reactor class: twisted.internet.selectreactor.SelectReactor.
+2016-11-26T15:11:01-0800 [-] ServerFactory starting on 1025
+2016-11-26T15:11:01-0800 [twisted.internet.protocol.ServerFactory#info] Starting factory <twisted.internet.protocol.ServerFactory instance at 0x1034d75f0>
+2016-11-26T15:11:04-0800 [stdout#info] Got new client!
+2016-11-26T15:11:06-0800 [stdout#info] received 'hello'
+2016-11-26T15:11:12-0800 [stdout#info] received '\xff\xf4\xff\xfd\x06\x04\xff\xf4\xff\xfd\x06\xff\xf4\xff\xfd\x06\xff\xf4\xff\xfd\x06\xff\xf4\xff\xfd\x06\x04'
+2016-11-26T15:11:13-0800 [stdout#info] received '\xff\xfb\x06\xff\xfb\x06\xff\xfb\x06\xff\xfb\x06\xff\xfb\x06\xff\xf4\xff\xfd\x06\xff\xf4\xff\xfd\x06\xff\xf4\xff\xfd\x06\xff\xf4\xff\xfd\x06'
+2016-11-26T15:11:15-0800 [stdout#info] received '\xff\xfb\x06\xff\xfb\x06\xff\xfb\x06\xff\xfb\x06\xff\xf4\xff\xfd\x06\xff\xf4\xff\xfd\x06\xff\xf4\xff\xfd\x06\xff\xf4\xff\xfd\x06\xff\xf4\xff\xfd\x06\xff\xf4\xff\xfd\x06'
+2016-11-26T15:11:18-0800 [stdout#info] received '\xff\xfb\x06\xff\xfb\x06\xff\xfb\x06\xff\xfb\x06\xff\xfb\x06\xff\xfb\x06\xff\xf4\xff\xfd\x06\xff\xf4\xff\xfd\x06\xff\xf4\xff\xfd\x06\xff\xf4\xff\xfd\x06\xff\xf4\xff\xfd\x06'
+2016-11-26T15:11:20-0800 [stdout#info] received '\xff\xfb\x06\xff\xfb\x06\xff\xfb\x06\xff\xfb\x06\xff\xfb\x06\x1b'
+2016-11-26T15:11:24-0800 [stdout#info] received '^]'
+2016-11-26T15:11:27-0800 [stdout#info] received '\x1b'
+2016-11-26T15:11:31-0800 [stdout#info] received '^]'
+2016-11-26T15:11:46-0800 [stdout#info] Lost a client!
+2016-11-26T17:03:17-0800 [-] Received SIGTERM, shutting down.
+2016-11-26T17:03:17-0800 [-] (TCP Port 1025 Closed)
+2016-11-26T17:03:17-0800 [twisted.internet.protocol.ServerFactory#info] Stopping factory <twisted.internet.protocol.ServerFactory instance at 0x1034d75f0>
+2016-11-26T17:03:17-0800 [-] Main loop terminated.
+2016-11-26T17:03:17-0800 [twisted.scripts._twistd_unix.UnixAppLogger#info] Server Shut Down.
+2016-11-26T17:30:05-0800 [-] Loading server.py...
+2016-11-26T17:30:05-0800 [-] Loaded.
+2016-11-26T17:30:05-0800 [twisted.scripts._twistd_unix.UnixAppLogger#info] twistd 16.5.0 (/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python 2.7.12) starting up.
+2016-11-26T17:30:05-0800 [twisted.scripts._twistd_unix.UnixAppLogger#info] reactor class: twisted.internet.selectreactor.SelectReactor.
+2016-11-26T17:30:05-0800 [-] ServerFactory starting on 12000
+2016-11-26T17:30:05-0800 [twisted.internet.protocol.ServerFactory#info] Starting factory <twisted.internet.protocol.ServerFactory instance at 0x10354ccf8>
+2016-11-26T17:30:06-0800 [stdout#info] Connection made to: -y
+2016-11-26T17:30:08-0800 [server,0,127.0.0.1] Unhandled Error
+	Traceback (most recent call last):
+	  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/Twisted-16.5.0-py2.7-macosx-10.6-intel.egg/twisted/python/log.py", line 101, in callWithLogger
+	    return callWithContext({"system": lp}, func, *args, **kw)
+	  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/Twisted-16.5.0-py2.7-macosx-10.6-intel.egg/twisted/python/log.py", line 84, in callWithContext
+	    return context.call({ILogContext: newCtx}, func, *args, **kw)
+	  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/Twisted-16.5.0-py2.7-macosx-10.6-intel.egg/twisted/python/context.py", line 118, in callWithContext
+	    return self.currentContext().callWithContext(ctx, func, *args, **kw)
+	  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/Twisted-16.5.0-py2.7-macosx-10.6-intel.egg/twisted/python/context.py", line 81, in callWithContext
+	    return func(*args,**kw)
+	--- <exception caught here> ---
+	  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/Twisted-16.5.0-py2.7-macosx-10.6-intel.egg/twisted/internet/selectreactor.py", line 149, in _doReadOrWrite
+	    why = getattr(selectable, method)()
+	  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/Twisted-16.5.0-py2.7-macosx-10.6-intel.egg/twisted/internet/tcp.py", line 208, in doRead
+	    return self._dataReceived(data)
+	  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/Twisted-16.5.0-py2.7-macosx-10.6-intel.egg/twisted/internet/tcp.py", line 214, in _dataReceived
+	    rval = self.protocol.dataReceived(data)
+	  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/Twisted-16.5.0-py2.7-macosx-10.6-intel.egg/twisted/protocols/basic.py", line 571, in dataReceived
+	    why = self.lineReceived(line)
+	  File "server.py", line 25, in lineReceived
+	    clientID = arguments[1]
+	exceptions.IndexError: list index out of range
+	
+2016-11-26T17:30:08-0800 [stdout#info] Lost client
+2016-11-26T17:30:51-0800 [-] Received SIGTERM, shutting down.
+2016-11-26T17:30:51-0800 [-] (TCP Port 12000 Closed)
+2016-11-26T17:30:51-0800 [twisted.internet.protocol.ServerFactory#info] Stopping factory <twisted.internet.protocol.ServerFactory instance at 0x10354ccf8>
+2016-11-26T17:30:51-0800 [-] Main loop terminated.
+2016-11-26T17:30:51-0800 [twisted.scripts._twistd_unix.UnixAppLogger#info] Server Shut Down.
+2016-11-26T17:31:48-0800 [-] Loading chatserver.py...
+2016-11-26T17:31:48-0800 [-] Loaded.
+2016-11-26T17:31:48-0800 [twisted.scripts._twistd_unix.UnixAppLogger#info] twistd 16.5.0 (/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python 2.7.12) starting up.
+2016-11-26T17:31:48-0800 [twisted.scripts._twistd_unix.UnixAppLogger#info] reactor class: twisted.internet.selectreactor.SelectReactor.
+2016-11-26T17:31:48-0800 [-] ServerFactory starting on 1025
+2016-11-26T17:31:48-0800 [twisted.internet.protocol.ServerFactory#info] Starting factory <twisted.internet.protocol.ServerFactory instance at 0x1033be5f0>
+2016-11-26T17:32:02-0800 [-] Received SIGTERM, shutting down.
+2016-11-26T17:32:02-0800 [-] (TCP Port 1025 Closed)
+2016-11-26T17:32:02-0800 [twisted.internet.protocol.ServerFactory#info] Stopping factory <twisted.internet.protocol.ServerFactory instance at 0x1033be5f0>
+2016-11-26T17:32:02-0800 [-] Main loop terminated.
+2016-11-26T17:32:02-0800 [twisted.scripts._twistd_unix.UnixAppLogger#info] Server Shut Down.
+2016-11-26T17:32:23-0800 [-] Loading chatserver.py...
+2016-11-26T17:32:28-0800 [-] Received SIGINT, shutting down.
+2016-11-26T17:32:28-0800 [-] Main loop terminated.
+2016-11-26T17:32:28-0800 [-] Loaded.
+2016-11-26T17:32:28-0800 [twisted.scripts._twistd_unix.UnixAppLogger#info] twistd 16.5.0 (/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python 2.7.12) starting up.
+2016-11-26T17:32:28-0800 [twisted.scripts._twistd_unix.UnixAppLogger#info] reactor class: twisted.internet.selectreactor.SelectReactor.
+2016-11-26T17:32:28-0800 [-] ServerFactory starting on 1025
+2016-11-26T17:32:28-0800 [twisted.internet.protocol.ServerFactory#info] Starting factory <twisted.internet.protocol.ServerFactory instance at 0x102d4dd40>
+2016-11-26T17:32:28-0800 [twisted.scripts._twistd_unix.UnixAppLogger#info] Server Shut Down.
+2016-11-26T17:32:37-0800 [-] Loading chatserver.py...
+2016-11-26T17:32:37-0800 [-] Loaded.
+2016-11-26T17:32:37-0800 [twisted.scripts._twistd_unix.UnixAppLogger#info] twistd 16.5.0 (/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python 2.7.12) starting up.
+2016-11-26T17:32:37-0800 [twisted.scripts._twistd_unix.UnixAppLogger#info] reactor class: twisted.internet.selectreactor.SelectReactor.
+2016-11-26T17:32:37-0800 [-] ServerFactory starting on 1025
+2016-11-26T17:32:37-0800 [twisted.internet.protocol.ServerFactory#info] Starting factory <twisted.internet.protocol.ServerFactory instance at 0x1034d75f0>
+2016-11-26T17:32:39-0800 [stdout#info] Got new client!
+2016-11-26T17:32:40-0800 [stdout#info] received 'hello'
+2016-11-26T17:32:42-0800 [stdout#info] received 'bye'
+2016-11-26T17:32:49-0800 [stdout#info] received '\xff\xf4\xff\xfd\x06\x04\xff\xf4\xff\xfd\x06\xff\xf4\xff\xfd\x06\xff\xf4\xff\xfd\x06\xff\xf4\xff\xfd\x06\xff\xf4\xff\xfd\x06\xff\xf4\xff\xfd\x06\xff\xf4\xff\xfd\x06\xff\xf4\xff\xfd\x06\xff\xf4\xff\xfd\x06\xff\xf4\xff\xfd\x06\xff\xf4\xff\xfd\x06\xff\xf4\xff\xfd\x06'
+2016-11-26T17:32:50-0800 [stdout#info] received '\xff\xfb\x06\xff\xfb\x06\xff\xfb\x06\xff\xfb\x06\xff\xfb\x06\xff\xfb\x06\xff\xfb\x06\xff\xfb\x06\xff\xfb\x06\xff\xfb\x06\xff\xfb\x06\xff\xfb\x06\xff\xfb\x06\xff\xf4\xff\xfd\x06'
+2016-11-26T17:32:50-0800 [stdout#info] received '\xff\xfb\x06\xff\xf4\xff\xfd\x06'
+2016-11-26T17:32:51-0800 [stdout#info] received '\xff\xfb\x06\xff\xf4\xff\xfd\x06'
+2016-11-26T17:32:51-0800 [stdout#info] received '\xff\xfb\x06\xff\xf4\xff\xfd\x06'
+2016-11-26T17:32:52-0800 [stdout#info] received '\xff\xfb\x06quit'
+2016-11-26T17:32:55-0800 [stdout#info] received '\x1b\x1b\x1b\x1b\x1b'
+2016-11-26T17:33:00-0800 [stdout#info] received "'^]'."
+2016-11-26T17:33:07-0800 [stdout#info] Lost a client!

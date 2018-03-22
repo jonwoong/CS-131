@@ -1,0 +1,550 @@
+=== GetNSet threads=1 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 38948.8 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=1 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 34064.8 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=1 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 31875.1 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=1 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 34198.4 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=1 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 33919.4 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=2 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 67153.8 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=2 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 66392.7 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=2 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 67671.6 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=2 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 64515.7 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=2 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 68310.9 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=4 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 121282 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=4 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 137057 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=4 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 136204 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=4 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 168830 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=4 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 136633 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=8 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 352850 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=8 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 317809 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=8 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 225650 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=8 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 329181 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=8 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 290690 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=16 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 950089 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=16 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 996990 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=16 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 915737 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=16 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 773850 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=16 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 682209 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=32 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 2.85156e+06 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=32 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 2.71391e+06 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=32 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 2.45921e+06 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=32 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 2.49971e+06 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=32 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 2.59704e+06 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=1 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 6357.91 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=1 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 5608.89 ns/transition
+Number of failed swaps: 1
+
+=== GetNSet threads=1 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 6061.42 ns/transition
+Number of failed swaps: 14
+
+=== GetNSet threads=1 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 5890.60 ns/transition
+Number of failed swaps: 3
+
+=== GetNSet threads=1 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 5719.14 ns/transition
+Number of failed swaps: 40
+
+=== GetNSet threads=2 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 10045.8 ns/transition
+Number of failed swaps: 14
+
+=== GetNSet threads=2 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 10821.3 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=2 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 11407.0 ns/transition
+Number of failed swaps: 28
+
+=== GetNSet threads=2 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 9306.35 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=2 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 11300.1 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=4 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 22931.1 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=4 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 22359.3 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=4 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 21314.0 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=4 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 21493.8 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=4 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 23254.4 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=8 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 55815.6 ns/transition
+Number of failed swaps: 8
+
+=== GetNSet threads=8 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 50396.3 ns/transition
+Number of failed swaps: 22
+
+=== GetNSet threads=8 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 47361.2 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=8 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 42616.6 ns/transition
+Number of failed swaps: 4
+
+=== GetNSet threads=8 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 41247.6 ns/transition
+Number of failed swaps: 8
+
+=== GetNSet threads=16 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 106159 ns/transition
+Number of failed swaps: 10
+
+=== GetNSet threads=16 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 89552.4 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=16 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 122448 ns/transition
+Number of failed swaps: 2
+
+=== GetNSet threads=16 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 108224 ns/transition
+Number of failed swaps: 9
+
+=== GetNSet threads=16 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 92977.1 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=32 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 279545 ns/transition
+Number of failed swaps: 0
+
+=== GetNSet threads=32 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 281230 ns/transition
+Number of failed swaps: 13
+
+=== GetNSet threads=32 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 310081 ns/transition
+Number of failed swaps: 24
+
+=== GetNSet threads=32 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 261111 ns/transition
+Number of failed swaps: 34
+
+=== GetNSet threads=32 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 222641 ns/transition
+Number of failed swaps: 21
+
+=== GetNSet threads=1 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 961.383 ns/transition
+Number of failed swaps: 360
+
+=== GetNSet threads=1 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 906.923 ns/transition
+Number of failed swaps: 256
+
+=== GetNSet threads=1 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 1065.61 ns/transition
+Number of failed swaps: 246
+
+=== GetNSet threads=1 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 849.881 ns/transition
+Number of failed swaps: 344
+
+=== GetNSet threads=1 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 903.553 ns/transition
+Number of failed swaps: 370
+
+=== GetNSet threads=2 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 3064.31 ns/transition
+Number of failed swaps: 241
+
+=== GetNSet threads=2 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 3226.34 ns/transition
+Number of failed swaps: 223
+
+=== GetNSet threads=2 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 3261.61 ns/transition
+Number of failed swaps: 173
+
+=== GetNSet threads=2 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 1863.26 ns/transition
+Number of failed swaps: 215
+
+=== GetNSet threads=2 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 3058.82 ns/transition
+Number of failed swaps: 112
+
+=== GetNSet threads=4 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 6503.17 ns/transition
+Number of failed swaps: 147
+
+=== GetNSet threads=4 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 6688.13 ns/transition
+Number of failed swaps: 139
+
+=== GetNSet threads=4 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 6265.46 ns/transition
+Number of failed swaps: 195
+
+=== GetNSet threads=4 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 6343.38 ns/transition
+Number of failed swaps: 343
+
+=== GetNSet threads=4 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 6387.41 ns/transition
+Number of failed swaps: 151
+
+=== GetNSet threads=8 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 12138.5 ns/transition
+Number of failed swaps: 115
+
+=== GetNSet threads=8 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 14997.0 ns/transition
+Number of failed swaps: 146
+
+=== GetNSet threads=8 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 12752.6 ns/transition
+Number of failed swaps: 26
+
+=== GetNSet threads=8 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 12012.0 ns/transition
+Number of failed swaps: 179
+
+=== GetNSet threads=8 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 12358.8 ns/transition
+Number of failed swaps: 94
+
+=== GetNSet threads=16 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 29166.8 ns/transition
+Number of failed swaps: 345
+
+=== GetNSet threads=16 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 31920.5 ns/transition
+Number of failed swaps: 68
+
+=== GetNSet threads=16 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 26159.2 ns/transition
+Number of failed swaps: 143
+
+=== GetNSet threads=16 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 36894.1 ns/transition
+Number of failed swaps: 232
+
+=== GetNSet threads=16 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 25547.5 ns/transition
+Number of failed swaps: 70
+
+=== GetNSet threads=32 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 65686.3 ns/transition
+Number of failed swaps: 110
+
+=== GetNSet threads=32 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 53887.9 ns/transition
+Number of failed swaps: 114
+
+=== GetNSet threads=32 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 56588.0 ns/transition
+Number of failed swaps: 157
+
+=== GetNSet threads=32 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 53000.5 ns/transition
+Number of failed swaps: 135
+
+=== GetNSet threads=32 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 51585.4 ns/transition
+Number of failed swaps: 256
+
+=== GetNSet threads=1 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 269.923 ns/transition
+Number of failed swaps: 2996
+
+=== GetNSet threads=1 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 255.870 ns/transition
+Number of failed swaps: 3241
+
+=== GetNSet threads=1 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 244.251 ns/transition
+Number of failed swaps: 3631
+
+=== GetNSet threads=1 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 246.309 ns/transition
+Number of failed swaps: 3188
+
+=== GetNSet threads=1 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 232.595 ns/transition
+Number of failed swaps: 3062
+
+=== GetNSet threads=2 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 556.333 ns/transition
+Number of failed swaps: 16853
+
+=== GetNSet threads=2 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 979.140 ns/transition
+Number of failed swaps: 2296
+
+=== GetNSet threads=2 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 1148.29 ns/transition
+Number of failed swaps: 1096
+
+=== GetNSet threads=2 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 1228.42 ns/transition
+Number of failed swaps: 2123
+
+=== GetNSet threads=2 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 1116.73 ns/transition
+Number of failed swaps: 1566
+
+=== GetNSet threads=4 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 2095.58 ns/transition
+Number of failed swaps: 1702
+
+=== GetNSet threads=4 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 1603.47 ns/transition
+Number of failed swaps: 1578
+
+=== GetNSet threads=4 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 2581.74 ns/transition
+Number of failed swaps: 1549
+
+=== GetNSet threads=4 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 1995.23 ns/transition
+Number of failed swaps: 4353
+
+=== GetNSet threads=4 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 2089.69 ns/transition
+Number of failed swaps: 3071
+
+=== GetNSet threads=8 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 3869.10 ns/transition
+Number of failed swaps: 1181
+
+=== GetNSet threads=8 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 3039.79 ns/transition
+Number of failed swaps: 2365
+
+=== GetNSet threads=8 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 3807.65 ns/transition
+Number of failed swaps: 986
+
+=== GetNSet threads=8 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 3180.55 ns/transition
+Number of failed swaps: 1731
+
+=== GetNSet threads=8 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 2912.15 ns/transition
+Number of failed swaps: 2123
+
+=== GetNSet threads=16 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 7166.12 ns/transition
+Number of failed swaps: 2644
+
+=== GetNSet threads=16 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 6161.42 ns/transition
+Number of failed swaps: 1077
+
+=== GetNSet threads=16 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 5780.50 ns/transition
+Number of failed swaps: 1411
+
+=== GetNSet threads=16 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 8544.58 ns/transition
+Number of failed swaps: 1117
+
+=== GetNSet threads=16 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 7401.60 ns/transition
+Number of failed swaps: 1748
+
+=== GetNSet threads=32 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 17256.6 ns/transition
+Number of failed swaps: 1261
+
+=== GetNSet threads=32 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 14590.0 ns/transition
+Number of failed swaps: 1712
+
+=== GetNSet threads=32 swaps=100000 maxval=127 25 25 25 25 25 ===
+
+=== GetNSet threads=32 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 18932.7 ns/transition
+Number of failed swaps: 1612
+
+=== GetNSet threads=32 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 17278.5 ns/transition
+Number of failed swaps: 1808
+
+=== GetNSet threads=1 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 69.6205 ns/transition
+Number of failed swaps: 30581
+
+=== GetNSet threads=1 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 68.4744 ns/transition
+Number of failed swaps: 32975
+
+=== GetNSet threads=1 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 64.1587 ns/transition
+Number of failed swaps: 30824
+
+=== GetNSet threads=1 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 64.5741 ns/transition
+Number of failed swaps: 31406
+
+=== GetNSet threads=1 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 69.9568 ns/transition
+Number of failed swaps: 32022
+
+=== GetNSet threads=2 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== GetNSet threads=2 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== GetNSet threads=2 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== GetNSet threads=2 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== GetNSet threads=2 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== GetNSet threads=4 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== GetNSet threads=4 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== GetNSet threads=4 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== GetNSet threads=4 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== GetNSet threads=4 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== GetNSet threads=8 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== GetNSet threads=8 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== GetNSet threads=8 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== GetNSet threads=8 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== GetNSet threads=8 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== GetNSet threads=16 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== GetNSet threads=16 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 3889.98 ns/transition
+Number of failed swaps: 23346
+
+=== GetNSet threads=16 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== GetNSet threads=16 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== GetNSet threads=16 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== GetNSet threads=32 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== GetNSet threads=32 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== GetNSet threads=32 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== GetNSet threads=32 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== GetNSet threads=32 swaps=1000000 maxval=127 25 25 25 25 25 ===
+

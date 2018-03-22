@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/Twisted-16.5.0-py2.7-macosx-10.6-intel.egg/twisted/application/app.py", line 310, in runReactorWithLogging
+    reactor.run()
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/Twisted-16.5.0-py2.7-macosx-10.6-intel.egg/twisted/internet/base.py", line 1194, in run
+    self.startRunning(installSignalHandlers=installSignalHandlers)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/Twisted-16.5.0-py2.7-macosx-10.6-intel.egg/twisted/internet/base.py", line 1174, in startRunning
+    ReactorBase.startRunning(self)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/Twisted-16.5.0-py2.7-macosx-10.6-intel.egg/twisted/internet/base.py", line 684, in startRunning
+    raise error.ReactorNotRestartable()
+ReactorNotRestartable

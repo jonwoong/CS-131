@@ -1,0 +1,544 @@
+=== Unsynchronized threads=1 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 30614.1 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=1 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 23262.9 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=1 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 25975.5 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=1 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 26478.9 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=1 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 28672.3 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=2 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 52757.3 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=2 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 52648.7 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=2 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 56793.2 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=2 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 54349.6 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=2 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 55011.1 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=4 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 136182 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=4 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 126939 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=4 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 142511 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=4 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 138168 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=4 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 129670 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=8 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 296742 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=8 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 298359 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=8 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 267133 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=8 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 248918 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=8 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 272749 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=16 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 820091 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=16 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 676738 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=16 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 817368 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=16 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 813451 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=16 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 971750 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=32 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 1.70224e+06 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=32 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 2.10335e+06 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=32 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 2.18592e+06 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=32 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 2.20016e+06 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=32 swaps=100 maxval=127 25 25 25 25 25 ===
+Threads average 2.33155e+06 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=1 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 4516.84 ns/transition
+Number of failed swaps: 21
+
+=== Unsynchronized threads=1 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 4615.39 ns/transition
+Number of failed swaps: 21
+
+=== Unsynchronized threads=1 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 4445.63 ns/transition
+Number of failed swaps: 34
+
+=== Unsynchronized threads=1 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 4632.52 ns/transition
+Number of failed swaps: 1
+
+=== Unsynchronized threads=1 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 4483.05 ns/transition
+Number of failed swaps: 28
+
+=== Unsynchronized threads=2 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 8605.74 ns/transition
+Number of failed swaps: 52
+
+=== Unsynchronized threads=2 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 8788.28 ns/transition
+Number of failed swaps: 22
+
+=== Unsynchronized threads=2 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 8056.87 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=2 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 8682.91 ns/transition
+Number of failed swaps: 9
+
+=== Unsynchronized threads=2 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 8096.57 ns/transition
+Number of failed swaps: 18
+
+=== Unsynchronized threads=4 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 17751.8 ns/transition
+Number of failed swaps: 15
+
+=== Unsynchronized threads=4 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 19685.7 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=4 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 19268.5 ns/transition
+Number of failed swaps: 2
+
+=== Unsynchronized threads=4 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 17208.1 ns/transition
+Number of failed swaps: 9
+
+=== Unsynchronized threads=4 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 15505.4 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=8 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 36199.6 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=8 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 29658.5 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=8 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 40472.8 ns/transition
+Number of failed swaps: 3
+
+=== Unsynchronized threads=8 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 35938.7 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=8 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 34287.8 ns/transition
+Number of failed swaps: 4
+
+=== Unsynchronized threads=16 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 80812.5 ns/transition
+Number of failed swaps: 16
+
+=== Unsynchronized threads=16 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 91006.0 ns/transition
+Number of failed swaps: 12
+
+=== Unsynchronized threads=16 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 96668.1 ns/transition
+Number of failed swaps: 22
+
+=== Unsynchronized threads=16 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 71728.4 ns/transition
+Number of failed swaps: 12
+
+=== Unsynchronized threads=16 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 81999.4 ns/transition
+Number of failed swaps: 8
+
+=== Unsynchronized threads=32 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 273364 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=32 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 241344 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=32 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 300721 ns/transition
+Number of failed swaps: 1
+
+=== Unsynchronized threads=32 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 221389 ns/transition
+Number of failed swaps: 1
+
+=== Unsynchronized threads=32 swaps=1000 maxval=127 25 25 25 25 25 ===
+Threads average 240746 ns/transition
+Number of failed swaps: 0
+
+=== Unsynchronized threads=1 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 843.342 ns/transition
+Number of failed swaps: 297
+
+=== Unsynchronized threads=1 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 740.812 ns/transition
+Number of failed swaps: 271
+
+=== Unsynchronized threads=1 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 682.899 ns/transition
+Number of failed swaps: 440
+
+=== Unsynchronized threads=1 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 656.882 ns/transition
+Number of failed swaps: 160
+
+=== Unsynchronized threads=1 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 831.714 ns/transition
+Number of failed swaps: 339
+
+=== Unsynchronized threads=2 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 1429.10 ns/transition
+Number of failed swaps: 346
+
+=== Unsynchronized threads=2 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 1556.96 ns/transition
+Number of failed swaps: 131
+
+=== Unsynchronized threads=2 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 1951.63 ns/transition
+Number of failed swaps: 167
+
+=== Unsynchronized threads=2 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 1793.19 ns/transition
+Number of failed swaps: 134
+
+=== Unsynchronized threads=2 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 2093.01 ns/transition
+Number of failed swaps: 213
+
+=== Unsynchronized threads=4 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 3660.46 ns/transition
+Number of failed swaps: 137
+
+=== Unsynchronized threads=4 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 4398.81 ns/transition
+Number of failed swaps: 456
+
+=== Unsynchronized threads=4 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 4039.63 ns/transition
+Number of failed swaps: 154
+
+=== Unsynchronized threads=4 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 4125.74 ns/transition
+Number of failed swaps: 205
+
+=== Unsynchronized threads=4 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 4431.13 ns/transition
+Number of failed swaps: 165
+
+=== Unsynchronized threads=8 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 7908.60 ns/transition
+Number of failed swaps: 113
+
+=== Unsynchronized threads=8 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 8225.10 ns/transition
+Number of failed swaps: 110
+
+=== Unsynchronized threads=8 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 8415.12 ns/transition
+Number of failed swaps: 130
+
+=== Unsynchronized threads=8 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 7900.89 ns/transition
+Number of failed swaps: 276
+
+=== Unsynchronized threads=8 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 7557.58 ns/transition
+Number of failed swaps: 183
+
+=== Unsynchronized threads=16 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 18416.6 ns/transition
+Number of failed swaps: 215
+
+=== Unsynchronized threads=16 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 16765.0 ns/transition
+Number of failed swaps: 143
+
+=== Unsynchronized threads=16 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 17246.5 ns/transition
+Number of failed swaps: 108
+
+=== Unsynchronized threads=16 swaps=10000 maxval=127 25 25 25 25 25 ===
+
+=== Unsynchronized threads=16 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 17758.5 ns/transition
+Number of failed swaps: 72
+
+=== Unsynchronized threads=32 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 33857.0 ns/transition
+Number of failed swaps: 107
+
+=== Unsynchronized threads=32 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 36435.2 ns/transition
+Number of failed swaps: 121
+
+=== Unsynchronized threads=32 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 35334.2 ns/transition
+Number of failed swaps: 254
+
+=== Unsynchronized threads=32 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 38295.2 ns/transition
+Number of failed swaps: 233
+
+=== Unsynchronized threads=32 swaps=10000 maxval=127 25 25 25 25 25 ===
+Threads average 36330.9 ns/transition
+Number of failed swaps: 197
+
+=== Unsynchronized threads=1 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 192.913 ns/transition
+Number of failed swaps: 4065
+
+=== Unsynchronized threads=1 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 199.485 ns/transition
+Number of failed swaps: 3707
+
+=== Unsynchronized threads=1 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 192.775 ns/transition
+Number of failed swaps: 3173
+
+=== Unsynchronized threads=1 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 221.321 ns/transition
+Number of failed swaps: 3822
+
+=== Unsynchronized threads=1 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 202.278 ns/transition
+Number of failed swaps: 3033
+
+=== Unsynchronized threads=2 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 685.194 ns/transition
+Number of failed swaps: 3285
+
+=== Unsynchronized threads=2 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 717.258 ns/transition
+Number of failed swaps: 2491
+
+=== Unsynchronized threads=2 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 678.470 ns/transition
+Number of failed swaps: 2057
+
+=== Unsynchronized threads=2 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 621.270 ns/transition
+Number of failed swaps: 3494
+
+=== Unsynchronized threads=2 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 714.976 ns/transition
+Number of failed swaps: 3297
+
+=== Unsynchronized threads=4 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 925.259 ns/transition
+Number of failed swaps: 3729
+
+=== Unsynchronized threads=4 swaps=100000 maxval=127 25 25 25 25 25 ===
+
+=== Unsynchronized threads=4 swaps=100000 maxval=127 25 25 25 25 25 ===
+
+=== Unsynchronized threads=4 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 1072.74 ns/transition
+Number of failed swaps: 1885
+
+=== Unsynchronized threads=4 swaps=100000 maxval=127 25 25 25 25 25 ===
+
+=== Unsynchronized threads=8 swaps=100000 maxval=127 25 25 25 25 25 ===
+
+=== Unsynchronized threads=8 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 1991.13 ns/transition
+Number of failed swaps: 1864
+
+=== Unsynchronized threads=8 swaps=100000 maxval=127 25 25 25 25 25 ===
+
+=== Unsynchronized threads=8 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 1792.76 ns/transition
+Number of failed swaps: 3044
+
+=== Unsynchronized threads=8 swaps=100000 maxval=127 25 25 25 25 25 ===
+
+=== Unsynchronized threads=16 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 3879.73 ns/transition
+Number of failed swaps: 2714
+
+=== Unsynchronized threads=16 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 3561.91 ns/transition
+Number of failed swaps: 2487
+
+=== Unsynchronized threads=16 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 3819.34 ns/transition
+Number of failed swaps: 3940
+
+=== Unsynchronized threads=16 swaps=100000 maxval=127 25 25 25 25 25 ===
+
+=== Unsynchronized threads=16 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 3368.31 ns/transition
+Number of failed swaps: 3313
+
+=== Unsynchronized threads=32 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 9518.65 ns/transition
+Number of failed swaps: 1986
+
+=== Unsynchronized threads=32 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 7555.94 ns/transition
+Number of failed swaps: 1952
+
+=== Unsynchronized threads=32 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 7446.23 ns/transition
+Number of failed swaps: 2791
+
+=== Unsynchronized threads=32 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 8770.94 ns/transition
+Number of failed swaps: 2190
+
+=== Unsynchronized threads=32 swaps=100000 maxval=127 25 25 25 25 25 ===
+Threads average 7841.40 ns/transition
+Number of failed swaps: 2510
+
+=== Unsynchronized threads=1 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 51.2786 ns/transition
+Number of failed swaps: 34071
+
+=== Unsynchronized threads=1 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 45.8320 ns/transition
+Number of failed swaps: 31338
+
+=== Unsynchronized threads=1 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 52.4221 ns/transition
+Number of failed swaps: 30925
+
+=== Unsynchronized threads=1 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 47.9147 ns/transition
+Number of failed swaps: 30619
+
+=== Unsynchronized threads=1 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 50.1424 ns/transition
+Number of failed swaps: 30711
+
+=== Unsynchronized threads=2 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== Unsynchronized threads=2 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== Unsynchronized threads=2 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== Unsynchronized threads=2 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 260.059 ns/transition
+Number of failed swaps: 24931
+
+=== Unsynchronized threads=2 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== Unsynchronized threads=4 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== Unsynchronized threads=4 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== Unsynchronized threads=4 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== Unsynchronized threads=4 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== Unsynchronized threads=4 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== Unsynchronized threads=8 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 1273.59 ns/transition
+Number of failed swaps: 17066
+
+=== Unsynchronized threads=8 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== Unsynchronized threads=8 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 2236.50 ns/transition
+Number of failed swaps: 15538
+
+=== Unsynchronized threads=8 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== Unsynchronized threads=8 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== Unsynchronized threads=16 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== Unsynchronized threads=16 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== Unsynchronized threads=16 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== Unsynchronized threads=16 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 4897.54 ns/transition
+Number of failed swaps: 14966
+
+=== Unsynchronized threads=16 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== Unsynchronized threads=32 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== Unsynchronized threads=32 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== Unsynchronized threads=32 swaps=1000000 maxval=127 25 25 25 25 25 ===
+
+=== Unsynchronized threads=32 swaps=1000000 maxval=127 25 25 25 25 25 ===
+Threads average 8966.24 ns/transition
+Number of failed swaps: 16533
+
+=== Unsynchronized threads=32 swaps=1000000 maxval=127 25 25 25 25 25 ===
+

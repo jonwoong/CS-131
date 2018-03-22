@@ -1,0 +1,45 @@
+Homework 4 - Morse Code Data Recovery
+
+===== MODEL =====
+
+I assume the following:
+"An error token can be part of a word, which means the example is wrong and should succeed with  M=[m,o,r,s,e,#,as]"
+
+===== MAJOR PREDICATES =====
+
+leftShift(InList,InNum,OutList) :- left shift Input by Number, discarding left elements.
+
+headOf(InList,OutChar) :- get head of Input.
+
+countOnes(InList,OutNum) :- gets number of consecutive 1's until reaching 0.
+
+countZeroes(InList,OutNum) :- gets number of consecutive 0's until reaching 1.
+
+shrinkOnes(InList,OutList) :- shortens 3+ consecutive ones to 3 ones
+
+shrinkZeroes(InList,OutList) :- shortens 5+ consecutive zeroes to 7 zeroes
+
+shrinkList(InList,OutList) :- applies shrinkOnes and shrinkZeroes to a list
+
+removeAmbiguity(InList,OutList) :- resolves noise in a list, giving alternatives
+
+decode(Inlist,OutList) :- converts 1's and 0's to morse
+
+signal_morse(Inlist,OutList) :- applies shrinkList, removeAmbiguity, decode to a list
+
+padSpace(Inlist,OutList) :- pads # symbols with ^ to make ^,#,^ which makes translation to ASCII easier
+
+getSymbol(InList,OutList) :- gets all morse up to ^
+
+getASCII(InList,OutChar) :- converts morse to ASCII symbol
+
+translate(InList,OutList) :- applies getASCII to all symbols in a list
+
+getWord(InList,Word,OutList) :- returns first Word of a list and everything after Word as OutList
+
+findError(Inlist,OutList) :- accumulates consecutive # until reaching 'error'
+
+removeErrors(InList,OutList) :- gets the first Word using getWord, searches everything after Word for an error, if error exists then discard, otherwise accumulate
+
+signal_message(InList,OutList) :- applies signal_morse, padSpace, translate, and removeErrors 
+

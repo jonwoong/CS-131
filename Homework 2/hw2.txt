@@ -1,0 +1,53 @@
+///// CS 131 HW2 AFTER-ACTION REPORT /////
+
+///// convert_grammar /////
+
+1. Why I solved the problem the way I did:
+
+	It is obvious that recursion is the best option here. All that is 
+	necessary is to convert (symbol, list list) to (symbol, function -> list). 
+	
+	This is done by matching the grammar types and recursively building 
+	the rules for each type. 
+
+2. Other approaches that I considered and rejected, and why:
+
+	I did not consider any other approach.	 
+
+3. Weaknesses in my solution:
+
+	None.
+
+///// parse_prefix /////
+
+1. Why I solved the problem the way I did:
+
+	The main reason why I chose to tackle the problem with two different types 
+	of matchers is because my TA Seunghyun outlined the general method to 
+	completing the homework. 
+
+	More specifically, he showed us that we should think of the problem as
+	building a parse tree with matchers that handled one fragment at a time.
+
+2. Other approaches that I considered and rejected, and why:
+
+	My inital attempt involved one global matcher with sub-functions nested 
+	inside, but this was too complicated to understand and would not return 
+	the correct type. 
+
+	I also attempted to implement a matcher for non-terminal rules only 
+	and a matcher for terminal rules only, but this was also over 
+	complicating things. 
+
+	When Seunghyun outlined the method to solve the problem, I did not 
+	attempt any more of my own ideas.
+
+3. Weaknesses in my solution:
+
+	This solution does not work for all types of gramars. 
+
+	For example, grammars that prefer non-terminal resolution from 
+	right-to-left will not receive the same acceptor result. 
+
+	The test cases in hw2test aim to test ambiguity in the language 
+	and the ability of the parser to correctly parse nested conditionals.
